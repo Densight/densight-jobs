@@ -2,7 +2,7 @@
 
 | Column | Meaning |
 |---|---|
-| snapshot_date | Date of the weekly snapshot |
+| snapshot_date | Date of the update that produced the file |
 | role_id | Stable ID for the role (employer, title, location) |
 | role_title | Job title as listed |
 | employer | Hiring company as listed |
@@ -13,7 +13,7 @@
 | listed_on | Employer career site, Rozee.pk, GulfTalent, LinkedIn or Indeed |
 | apply_url | Link to the listing |
 | posted_date | Date posted, when the source gives it |
-| first_seen, last_seen | First and latest snapshot dates when we saw the role |
+| first_seen, last_seen | First and latest dates when we saw the role. A role is listed in the week of its first_seen date |
 | status | active |
 | skills | Tools and skills named in the listing, from a fixed list, separated by semicolons |
 | min_years_experience | Lowest years of experience mentioned, when stated |
