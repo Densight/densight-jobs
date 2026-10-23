@@ -1,62 +1,62 @@
 period,compared_with,dimension,key,this_period,previous_period,change,comparable
-2026-10-21,2026-10-14,Country,Bahrain,2,0,2,no
-2026-10-21,2026-10-14,Country,Kuwait,2,1,1,no
-2026-10-21,2026-10-14,Country,Oman,2,0,2,no
-2026-10-21,2026-10-14,Country,Pakistan,46,23,23,no
-2026-10-21,2026-10-14,Country,Qatar,6,5,1,no
-2026-10-21,2026-10-14,Country,Saudi Arabia,38,23,15,no
-2026-10-21,2026-10-14,Country,UAE,121,54,67,no
-2026-10-21,2026-10-14,Role type,AI & ML Engineering,75,41,34,no
-2026-10-21,2026-10-14,Role type,AI Academia,13,3,10,no
-2026-10-21,2026-10-14,Role type,"AI Product, Strategy & Leadership",18,12,6,no
-2026-10-21,2026-10-14,Role type,AI Research & Science,30,13,17,no
-2026-10-21,2026-10-14,Role type,AI Solutions & Consulting,38,23,15,no
-2026-10-21,2026-10-14,Role type,AI Specialist (general),43,14,29,no
-2026-10-21,2026-10-14,Skill,A/B testing,24,14,10,no
-2026-10-21,2026-10-14,Skill,AWS,62,37,25,no
-2026-10-21,2026-10-14,Skill,Agents,135,70,65,no
-2026-10-21,2026-10-14,Skill,Airflow,6,5,1,no
-2026-10-21,2026-10-14,Skill,Arabic NLP,36,44,-8,no
-2026-10-21,2026-10-14,Skill,Azure,88,51,37,no
-2026-10-21,2026-10-14,Skill,C++,11,8,3,no
-2026-10-21,2026-10-14,Skill,CUDA,9,4,5,no
-2026-10-21,2026-10-14,Skill,Computer vision,36,13,23,no
-2026-10-21,2026-10-14,Skill,Databricks,19,3,16,no
-2026-10-21,2026-10-14,Skill,Deep learning,48,19,29,no
-2026-10-21,2026-10-14,Skill,Docker,35,17,18,no
-2026-10-21,2026-10-14,Skill,FastAPI,18,9,9,no
-2026-10-21,2026-10-14,Skill,Fine-tuning,24,18,6,no
-2026-10-21,2026-10-14,Skill,Flask,4,1,3,no
-2026-10-21,2026-10-14,Skill,GCP,42,26,16,no
-2026-10-21,2026-10-14,Skill,Generative AI,115,67,48,no
-2026-10-21,2026-10-14,Skill,Git,25,7,18,no
-2026-10-21,2026-10-14,Skill,Hugging Face,14,6,8,no
-2026-10-21,2026-10-14,Skill,Keras,1,1,0,no
-2026-10-21,2026-10-14,Skill,Kubernetes,23,15,8,no
-2026-10-21,2026-10-14,Skill,LLMs,125,63,62,no
-2026-10-21,2026-10-14,Skill,LangChain,23,14,9,no
-2026-10-21,2026-10-14,Skill,LlamaIndex,12,5,7,no
-2026-10-21,2026-10-14,Skill,MLOps,60,31,29,no
-2026-10-21,2026-10-14,Skill,Machine learning,132,65,67,no
-2026-10-21,2026-10-14,Skill,NLP,68,36,32,no
-2026-10-21,2026-10-14,Skill,NumPy,5,5,0,no
-2026-10-21,2026-10-14,Skill,OpenAI API,23,10,13,no
-2026-10-21,2026-10-14,Skill,Pandas,10,5,5,no
-2026-10-21,2026-10-14,Skill,Prompt engineering,15,14,1,no
-2026-10-21,2026-10-14,Skill,PyTorch,44,15,29,no
-2026-10-21,2026-10-14,Skill,Python,124,62,62,no
-2026-10-21,2026-10-14,Skill,RAG,79,39,40,no
-2026-10-21,2026-10-14,Skill,Recommender systems,21,14,7,no
-2026-10-21,2026-10-14,Skill,Reinforcement learning,4,3,1,no
-2026-10-21,2026-10-14,Skill,Responsible AI,41,11,30,no
-2026-10-21,2026-10-14,Skill,SQL,44,22,22,no
-2026-10-21,2026-10-14,Skill,Snowflake,1,1,0,no
-2026-10-21,2026-10-14,Skill,Spark,9,3,6,no
-2026-10-21,2026-10-14,Skill,Speech/ASR,3,2,1,no
-2026-10-21,2026-10-14,Skill,Statistics,32,16,16,no
-2026-10-21,2026-10-14,Skill,TensorFlow,40,10,30,no
-2026-10-21,2026-10-14,Skill,Time series,12,3,9,no
-2026-10-21,2026-10-14,Skill,Transformers,12,4,8,no
-2026-10-21,2026-10-14,Skill,Vector databases,36,17,19,no
-2026-10-21,2026-10-14,Skill,XGBoost,5,3,2,no
-2026-10-21,2026-10-14,Skill,scikit-learn,24,7,17,no
+2026-10-23,2026-10-16,Country,Bahrain,1,1,0,no
+2026-10-23,2026-10-16,Country,Kuwait,2,1,1,no
+2026-10-23,2026-10-16,Country,Oman,2,0,2,no
+2026-10-23,2026-10-16,Country,Pakistan,33,37,-4,no
+2026-10-23,2026-10-16,Country,Qatar,5,7,-2,no
+2026-10-23,2026-10-16,Country,Saudi Arabia,31,34,-3,no
+2026-10-23,2026-10-16,Country,UAE,79,96,-17,no
+2026-10-23,2026-10-16,Role type,AI & ML Engineering,49,69,-20,no
+2026-10-23,2026-10-16,Role type,AI Academia,10,6,4,no
+2026-10-23,2026-10-16,Role type,"AI Product, Strategy & Leadership",14,18,-4,no
+2026-10-23,2026-10-16,Role type,AI Research & Science,24,19,5,no
+2026-10-23,2026-10-16,Role type,AI Solutions & Consulting,25,37,-12,no
+2026-10-23,2026-10-16,Role type,AI Specialist (general),31,27,4,no
+2026-10-23,2026-10-16,Skill,A/B testing,23,18,5,no
+2026-10-23,2026-10-16,Skill,AWS,40,63,-23,no
+2026-10-23,2026-10-16,Skill,Agents,86,127,-41,no
+2026-10-23,2026-10-16,Skill,Airflow,2,9,-7,no
+2026-10-23,2026-10-16,Skill,Arabic NLP,9,72,-63,no
+2026-10-23,2026-10-16,Skill,Azure,52,91,-39,no
+2026-10-23,2026-10-16,Skill,C++,8,12,-4,no
+2026-10-23,2026-10-16,Skill,CUDA,4,9,-5,no
+2026-10-23,2026-10-16,Skill,Computer vision,24,28,-4,no
+2026-10-23,2026-10-16,Skill,Databricks,14,8,6,no
+2026-10-23,2026-10-16,Skill,Deep learning,33,36,-3,no
+2026-10-23,2026-10-16,Skill,Docker,24,30,-6,no
+2026-10-23,2026-10-16,Skill,FastAPI,10,17,-7,no
+2026-10-23,2026-10-16,Skill,Fine-tuning,16,27,-11,no
+2026-10-23,2026-10-16,Skill,Flask,3,2,1,no
+2026-10-23,2026-10-16,Skill,GCP,25,46,-21,no
+2026-10-23,2026-10-16,Skill,Generative AI,75,116,-41,no
+2026-10-23,2026-10-16,Skill,Git,20,14,6,no
+2026-10-23,2026-10-16,Skill,Hugging Face,10,11,-1,no
+2026-10-23,2026-10-16,Skill,Keras,0,2,-2,no
+2026-10-23,2026-10-16,Skill,Kubernetes,15,24,-9,no
+2026-10-23,2026-10-16,Skill,LLMs,85,112,-27,no
+2026-10-23,2026-10-16,Skill,LangChain,14,23,-9,no
+2026-10-23,2026-10-16,Skill,LlamaIndex,6,11,-5,no
+2026-10-23,2026-10-16,Skill,MLOps,40,54,-14,no
+2026-10-23,2026-10-16,Skill,Machine learning,89,117,-28,no
+2026-10-23,2026-10-16,Skill,NLP,47,60,-13,no
+2026-10-23,2026-10-16,Skill,NumPy,2,8,-6,no
+2026-10-23,2026-10-16,Skill,OpenAI API,12,22,-10,no
+2026-10-23,2026-10-16,Skill,Pandas,5,10,-5,no
+2026-10-23,2026-10-16,Skill,Prompt engineering,11,20,-9,no
+2026-10-23,2026-10-16,Skill,PyTorch,31,32,-1,no
+2026-10-23,2026-10-16,Skill,Python,86,105,-19,no
+2026-10-23,2026-10-16,Skill,RAG,46,75,-29,no
+2026-10-23,2026-10-16,Skill,Recommender systems,19,20,-1,no
+2026-10-23,2026-10-16,Skill,Reinforcement learning,1,6,-5,no
+2026-10-23,2026-10-16,Skill,Responsible AI,26,31,-5,no
+2026-10-23,2026-10-16,Skill,SQL,30,39,-9,no
+2026-10-23,2026-10-16,Skill,Snowflake,0,2,-2,no
+2026-10-23,2026-10-16,Skill,Spark,6,6,0,no
+2026-10-23,2026-10-16,Skill,Speech/ASR,1,4,-3,no
+2026-10-23,2026-10-16,Skill,Statistics,25,26,-1,no
+2026-10-23,2026-10-16,Skill,TensorFlow,28,26,2,no
+2026-10-23,2026-10-16,Skill,Time series,9,6,3,no
+2026-10-23,2026-10-16,Skill,Transformers,8,9,-1,no
+2026-10-23,2026-10-16,Skill,Vector databases,18,36,-18,no
+2026-10-23,2026-10-16,Skill,XGBoost,2,6,-4,no
+2026-10-23,2026-10-16,Skill,scikit-learn,15,17,-2,no

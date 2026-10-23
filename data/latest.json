@@ -1,6 +1,6 @@
 [
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "9b4d4043d1f5",
   "role_title": "AI Specialist",
   "employer": "Havelock One Interiors",
@@ -24,7 +24,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "21385525ab62",
   "role_title": "AI Engineer",
   "employer": "Masaj Co.",
@@ -48,7 +48,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "d20f42f4fb23",
   "role_title": "Full-Stack AI Engineer",
   "employer": "robotat.ai",
@@ -72,7 +72,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "d02b3bc6e0c1",
   "role_title": "AI/ML Engineer",
   "employer": "AMOUAGE",
@@ -96,7 +96,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "91800db2c80d",
   "role_title": "Artificial Intelligence Specialist",
   "employer": "Kaplan Middle East & North Africa",
@@ -120,7 +120,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "11f66ed34573",
   "role_title": "Head of Artificial Intelligence",
   "employer": "AI Case Leads",
@@ -144,7 +144,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "3b00a72812c1",
   "role_title": "AI Delivery Operations Lead",
   "employer": "Al Rafay Consulting",
@@ -168,7 +168,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "78f309850114",
   "role_title": "AI Scientific Editor - Medicine (Work-from-home)",
   "employer": "Cactus Communications",
@@ -184,15 +184,15 @@
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-21",
   "status": "active",
-  "skills": "",
+  "skills": "RAG; LLMs; Machine learning; Agents",
   "min_years_experience": "",
-  "degree_mentioned": "",
+  "degree_mentioned": "PhD",
   "salary_min": "",
   "salary_max": "",
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "5c360921b354",
   "role_title": "Machine Learning Engineering Technical Leader",
   "employer": "Cisco",
@@ -216,7 +216,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "d1ce3fd5ba15",
   "role_title": "AI Video Editor Unpaid Internship (Part-Time)",
   "employer": "Conzummate Tech Ltd",
@@ -240,7 +240,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "c9a289911081",
   "role_title": "Full-Stack Python AI Engineer",
   "employer": "CTI Ventures",
@@ -264,7 +264,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "921cd244f0c3",
   "role_title": "Technical Lead – GenAI & Cloud Engineering",
   "employer": "Datamatics Global Services Ltd",
@@ -288,7 +288,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "92a0a68e5259",
   "role_title": "Lead Data Scientist- Research",
   "employer": "Datum Labs",
@@ -312,7 +312,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "f1869d5d1152",
   "role_title": "AI Instructor",
   "employer": "Edversity",
@@ -336,7 +336,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "bde48d6c5079",
   "role_title": "Teaching Fellow - Agentic AI",
   "employer": "Edversity",
@@ -360,7 +360,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "e8b9e8d56030",
   "role_title": "Postdoctoral Researcher – AI & IoT",
   "employer": "GAO Tek Inc",
@@ -384,7 +384,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "67df17a3feb9",
   "role_title": "Postdoctoral Researcher – AI & IoT",
   "employer": "GAOTeck.Inc",
@@ -408,7 +408,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "54725eeea4c6",
   "role_title": "Postdoctoral Researcher – AI & IoT",
   "employer": "GAOTek Inc.",
@@ -432,7 +432,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "488ef38b2aa4",
   "role_title": "Lead Software Engineer, AI & SaaS (Contract)",
   "employer": "Growth Capital",
@@ -456,7 +456,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "ffdc43b1baa9",
   "role_title": "AI Automation Engineer",
   "employer": "Love Furniture",
@@ -480,7 +480,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "167a4ef71f8f",
   "role_title": "Executive Assistant - AI & Business Operations",
   "employer": "M365Consult",
@@ -504,7 +504,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "011772e81626",
   "role_title": "Senior AI & Full-Stack Engineer - DevOps & Technical Leadership",
   "employer": "M365Consult",
@@ -528,7 +528,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "851f4432d262",
   "role_title": "Senior Microsoft AI Engineer - Copilot, Foundry & Power Automate",
   "employer": "M365Consult",
@@ -552,7 +552,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "1ecff4ff1226",
   "role_title": "HRIS & Systems Integration Consultant – Agentic AI - Onsite Islamabad",
   "employer": "Peersol Technologies",
@@ -576,7 +576,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "3e9c2753b13b",
   "role_title": "AI Engineer (PhD Required)",
   "employer": "Pixalate",
@@ -600,7 +600,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "be5d08184209",
   "role_title": "AI Implementation Strategist",
   "employer": "RepStack",
@@ -624,7 +624,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "820d87eac7cc",
   "role_title": "AI Video Editor",
   "employer": "Sick.VFX",
@@ -648,7 +648,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "52f11d86adf1",
   "role_title": "AI/ML Engineer",
   "employer": "SKAL",
@@ -672,7 +672,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "7e1acad17413",
   "role_title": "AI Data Scinece Learner | Information Technology Specialist | Video Editor",
   "employer": "Sukkur Arts Council",
@@ -696,7 +696,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "62a846ca07f5",
   "role_title": "Video Editor & AI Content Specialist",
   "employer": "Swapp",
@@ -720,7 +720,7 @@
   "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "8b8d411492bd",
   "role_title": "AI/ML Engineer",
   "employer": "Systems Limited",
@@ -744,7 +744,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "605dc190fac6",
   "role_title": "AI Product Engineer - my digital people",
   "employer": "Taraki",
@@ -768,7 +768,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "b4ef4297c014",
   "role_title": "AI Video Creator And Editor ( Ai UGC )",
   "employer": "Visionaters",
@@ -792,7 +792,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "70197ec4b2a7",
   "role_title": "Commercial Disputes Subject Matter Expert | AI Evaluation Specialist (On-Call)",
   "employer": "Volga Partners",
@@ -808,15 +808,39 @@
   "first_seen": "2026-10-21",
   "last_seen": "2026-10-21",
   "status": "active",
-  "skills": "",
-  "min_years_experience": "",
-  "degree_mentioned": "",
-  "salary_min": "",
-  "salary_max": "",
-  "salary_currency": ""
+  "skills": "Machine learning; Recommender systems; Statistics; Responsible AI",
+  "min_years_experience": "4",
+  "degree_mentioned": "PhD",
+  "salary_min": "650",
+  "salary_max": "650",
+  "salary_currency": "PKR"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
+  "role_id": "9346d137f8f3",
+  "role_title": "Contract Compliance Subject Matter Expert | AI Evaluation Specialist (On-Call)",
+  "employer": "Volga Partners",
+  "country": "Pakistan",
+  "city": "",
+  "region": "Pakistan",
+  "role_family": "AI Specialist (general)",
+  "level": "Mid / unspecified",
+  "is_internship": "no",
+  "listed_on": "LinkedIn",
+  "apply_url": "https://www.linkedin.com/jobs/view/4481743016",
+  "posted_date": "2026-10-20",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "status": "active",
+  "skills": "Machine learning; Recommender systems; Statistics; Responsible AI",
+  "min_years_experience": "4",
+  "degree_mentioned": "Bachelors",
+  "salary_min": "650",
+  "salary_max": "650",
+  "salary_currency": "PKR"
+ },
+ {
+  "snapshot_date": "2026-10-23",
   "role_id": "eb2e208852c6",
   "role_title": "Senior Machine Learning Engineer (Generative AI)",
   "employer": "Zenit  Corp",
@@ -840,7 +864,31 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
+  "role_id": "bcfc9f81fee0",
+  "role_title": "AI/ML Engineer",
+  "employer": "Accenture",
+  "country": "Qatar",
+  "city": "Doha",
+  "region": "Gulf",
+  "role_family": "AI & ML Engineering",
+  "level": "Mid / unspecified",
+  "is_internship": "no",
+  "listed_on": "GulfTalent",
+  "apply_url": "https://www.gulftalent.com/qatar/jobs/ai-ml-engineer-647387",
+  "posted_date": "2026-10-16",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "status": "active",
+  "skills": "Python; PyTorch; TensorFlow; LLMs; Deep learning; Machine learning; Generative AI; MLOps; SQL; C++",
+  "min_years_experience": "",
+  "degree_mentioned": "PhD",
+  "salary_min": "",
+  "salary_max": "",
+  "salary_currency": ""
+ },
+ {
+  "snapshot_date": "2026-10-23",
   "role_id": "fc79def6af8c",
   "role_title": "Principal AI Engineer",
   "employer": "Arrivy Inc.",
@@ -864,7 +912,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "95646f63421b",
   "role_title": "Consultant – Operations Oversight & Performance, AI Infrastructure",
   "employer": "malomatia",
@@ -888,7 +936,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "4bd821706121",
   "role_title": "Data and AI Specialist",
   "employer": "malomatia",
@@ -912,7 +960,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "5b46739e27cd",
   "role_title": "Computer Vision Engineer",
   "employer": "Reactive Health",
@@ -928,7 +976,7 @@
   "first_seen": "2026-10-21",
   "last_seen": "2026-10-21",
   "status": "active",
-  "skills": "",
+  "skills": "Python; PyTorch; TensorFlow; Computer vision; GCP",
   "min_years_experience": "",
   "degree_mentioned": "",
   "salary_min": "",
@@ -936,7 +984,55 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
+  "role_id": "7bfb3800c3ae",
+  "role_title": "AI Solution Delivery Manager",
+  "employer": "Accenture",
+  "country": "Saudi Arabia",
+  "city": "Riyadh",
+  "region": "Gulf",
+  "role_family": "AI Solutions & Consulting",
+  "level": "Lead / Manager",
+  "is_internship": "no",
+  "listed_on": "GulfTalent",
+  "apply_url": "https://www.gulftalent.com/saudi-arabia/jobs/ai-solution-delivery-manager-648135",
+  "posted_date": "2026-10-17",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "status": "active",
+  "skills": "LLMs; NLP; Computer vision; Deep learning; Machine learning; Generative AI; MLOps; AWS; Azure; GCP; Statistics; Agents",
+  "min_years_experience": "1",
+  "degree_mentioned": "PhD",
+  "salary_min": "",
+  "salary_max": "",
+  "salary_currency": ""
+ },
+ {
+  "snapshot_date": "2026-10-23",
+  "role_id": "d67d521aa18b",
+  "role_title": "Data and AI Transformation Consultant",
+  "employer": "Accenture",
+  "country": "Saudi Arabia",
+  "city": "Riyadh",
+  "region": "Gulf",
+  "role_family": "AI Product, Strategy & Leadership",
+  "level": "Mid / unspecified",
+  "is_internship": "no",
+  "listed_on": "GulfTalent",
+  "apply_url": "https://www.gulftalent.com/saudi-arabia/jobs/data-and-ai-transformation-consultant-648121",
+  "posted_date": "2026-10-17",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "status": "active",
+  "skills": "Generative AI; A/B testing",
+  "min_years_experience": "4",
+  "degree_mentioned": "",
+  "salary_min": "",
+  "salary_max": "",
+  "salary_currency": ""
+ },
+ {
+  "snapshot_date": "2026-10-23",
   "role_id": "9b7bae40e8f5",
   "role_title": "Senior Forward Deployed Engineer (FDE) for AI and GenAI Inference Optimization",
   "employer": "AMD",
@@ -960,7 +1056,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "fa91d0833bea",
   "role_title": "AI Engineer (Saudi National)",
   "employer": "Astek Middle East",
@@ -984,7 +1080,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "e493262c0558",
   "role_title": "Director of AI Customer Experience",
   "employer": "BEAMRA",
@@ -1008,7 +1104,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "c5357aaa266a",
   "role_title": "AI Tech Consultant Enterprise Solutions - Riyadh | BCG Platinion",
   "employer": "Boston Consulting Group (BCG)",
@@ -1032,7 +1128,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "c70e52cdcd56",
   "role_title": "Inverto | Manager - Digital, Data & AI",
   "employer": "Boston Consulting Group (BCG)",
@@ -1056,7 +1152,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "facc07b837fe",
   "role_title": "Senior Data Scientist",
   "employer": "Dautom",
@@ -1080,7 +1176,31 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
+  "role_id": "79e45e9f4d4c",
+  "role_title": "AI/LLM Engineer",
+  "employer": "Eram Talent",
+  "country": "Saudi Arabia",
+  "city": "Mecca",
+  "region": "Gulf",
+  "role_family": "AI & ML Engineering",
+  "level": "Mid / unspecified",
+  "is_internship": "no",
+  "listed_on": "GulfTalent",
+  "apply_url": "https://www.gulftalent.com/saudi-arabia/jobs/ai-llm-engineer-647021",
+  "posted_date": "2026-10-15",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "status": "active",
+  "skills": "Python; PyTorch; Hugging Face; LLMs; Fine-tuning; NLP; Docker; Git; Transformers; Arabic NLP",
+  "min_years_experience": "",
+  "degree_mentioned": "Masters",
+  "salary_min": "",
+  "salary_max": "",
+  "salary_currency": ""
+ },
+ {
+  "snapshot_date": "2026-10-23",
   "role_id": "d3b4c75744f6",
   "role_title": "Data & AI Platform Section Head",
   "employer": "FNRCO",
@@ -1104,7 +1224,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "ca01961515a2",
   "role_title": "Senior Data Scientist | Credit & Debit Card Analytics",
   "employer": "Hiresquad Resources",
@@ -1128,7 +1248,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "21174b473a6e",
   "role_title": "Data and AI Architect",
   "employer": "IBM",
@@ -1152,7 +1272,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "7447d11c4902",
   "role_title": "Solution Engineer — Agentic Platform",
   "employer": "Intel",
@@ -1176,7 +1296,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "8d18706b516c",
   "role_title": "AI/ML Engineer",
   "employer": "Jobgether",
@@ -1200,7 +1320,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "2ca3fe8936de",
   "role_title": "AI Tech Lead",
   "employer": "Lucidya | لوسيديا",
@@ -1224,7 +1344,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "e00b9e376038",
   "role_title": "AI Business, Analyst",
   "employer": "Master-Works",
@@ -1248,7 +1368,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "65c8c9ef6123",
   "role_title": "AI Engineer, Specialist",
   "employer": "Master-Works",
@@ -1272,7 +1392,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "b280270eb0b0",
   "role_title": "AI Project Manager, Senior",
   "employer": "Master-Works",
@@ -1296,7 +1416,31 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
+  "role_id": "3f8b9bfa5847",
+  "role_title": "Claude AI Specialist and Claude AI Administrator",
+  "employer": "Sealy Mattress Middle East",
+  "country": "Saudi Arabia",
+  "city": "Jeddah",
+  "region": "Gulf",
+  "role_family": "AI Specialist (general)",
+  "level": "Mid / unspecified",
+  "is_internship": "no",
+  "listed_on": "GulfTalent",
+  "apply_url": "https://www.gulftalent.com/saudi-arabia/jobs/claude-ai-specialist-and-claude-ai-administrator-648562",
+  "posted_date": "2026-10-20",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "status": "active",
+  "skills": "LLMs; NLP; Generative AI",
+  "min_years_experience": "5",
+  "degree_mentioned": "",
+  "salary_min": "",
+  "salary_max": "",
+  "salary_currency": ""
+ },
+ {
+  "snapshot_date": "2026-10-23",
   "role_id": "1bfbb069d2e5",
   "role_title": "AI Engineer",
   "employer": "SoftServe",
@@ -1320,7 +1464,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "4d958aa64deb",
   "role_title": "Technology, Data & AI Program",
   "employer": "The Saudi National Bank - SNB",
@@ -1344,7 +1488,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "762e2aae78ff",
   "role_title": "AI Instructor",
   "employer": "Tuwaiq Academy | أكاديمية طويق",
@@ -1368,7 +1512,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "34581a69d8b7",
   "role_title": "RPA and Agentic AI Presales Engineer",
   "employer": "United Business Group",
@@ -1392,7 +1536,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "54bb2a334943",
   "role_title": "Senior Data Scientist",
   "employer": "Wakeb_Data",
@@ -1416,7 +1560,31 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
+  "role_id": "4b982df76d66",
+  "role_title": "AI Product Manager – Edge and Agentic AI",
+  "employer": "AIQU",
+  "country": "UAE",
+  "city": "Dubai",
+  "region": "Gulf",
+  "role_family": "AI Product, Strategy & Leadership",
+  "level": "Lead / Manager",
+  "is_internship": "no",
+  "listed_on": "GulfTalent",
+  "apply_url": "https://www.gulftalent.com/uae/jobs/ai-product-manager-edge-and-agentic-ai-647993",
+  "posted_date": "2026-10-17",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "status": "active",
+  "skills": "TensorFlow; Machine learning; Agents",
+  "min_years_experience": "",
+  "degree_mentioned": "",
+  "salary_min": "",
+  "salary_max": "",
+  "salary_currency": ""
+ },
+ {
+  "snapshot_date": "2026-10-23",
   "role_id": "6c40eaeaaee8",
   "role_title": "FULL STACK SOFTWARE ENGINEER (AI & MOBILE)",
   "employer": "AIQU",
@@ -1440,7 +1608,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "1938aa2e543b",
   "role_title": "AI / ML Engineer I Dubai | Financial Services| Orient Insurance PJSC",
   "employer": "Al-Futtaim",
@@ -1464,7 +1632,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "3fa6c80d99f4",
   "role_title": "Alibaba Cloud Intelligence-GenAI Solution Architect-Dubai",
   "employer": "Alibaba Cloud",
@@ -1480,7 +1648,7 @@
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-21",
   "status": "active",
-  "skills": "",
+  "skills": "Generative AI; AWS; Azure; Agents",
   "min_years_experience": "",
   "degree_mentioned": "",
   "salary_min": "",
@@ -1488,7 +1656,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "7cac55713720",
   "role_title": "Data Scientist",
   "employer": "ALTEN",
@@ -1512,7 +1680,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "1b456c6cfed4",
   "role_title": "Freelance Opportunity  | Data Scientist",
   "employer": "ALTEN",
@@ -1536,7 +1704,31 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
+  "role_id": "4e5c246ac63f",
+  "role_title": "AI/ML Engineer",
+  "employer": "AMOUAGE",
+  "country": "UAE",
+  "city": "Dubai",
+  "region": "Gulf",
+  "role_family": "AI & ML Engineering",
+  "level": "Mid / unspecified",
+  "is_internship": "no",
+  "listed_on": "LinkedIn",
+  "apply_url": "https://www.linkedin.com/jobs/view/4478662711",
+  "posted_date": "2026-10-20",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21",
+  "status": "active",
+  "skills": "Python; PyTorch; TensorFlow; scikit-learn; RAG; LLMs; Prompt engineering; Computer vision; Machine learning; Generative AI; MLOps; Docker; Kubernetes; AWS; Azure; GCP; SQL; Git; A/B testing; Agents; Responsible AI",
+  "min_years_experience": "",
+  "degree_mentioned": "Masters",
+  "salary_min": "",
+  "salary_max": "",
+  "salary_currency": ""
+ },
+ {
+  "snapshot_date": "2026-10-23",
   "role_id": "af2c7b749f7e",
   "role_title": "AI/ML Technical Architect",
   "employer": "Anix Global",
@@ -1560,7 +1752,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "b3b60f808920",
   "role_title": "Head of Artificial Intelligence",
   "employer": "arab- contractors",
@@ -1584,7 +1776,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "2a00fc8ac12f",
   "role_title": "Azure Data & AI Solution Architect",
   "employer": "Ayedh Dejem Group",
@@ -1608,7 +1800,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "3523673a4f67",
   "role_title": "AI Platform & Infrastructure Engineer, Deployed",
   "employer": "Brain Co.",
@@ -1632,7 +1824,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "4c09ca217e91",
   "role_title": "AI Product Engineer, Deployed",
   "employer": "Brain Co.",
@@ -1656,7 +1848,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "17bec277fcf8",
   "role_title": "Machine Learning Engineer, Applied AI - Deployed",
   "employer": "Brain Co.",
@@ -1680,7 +1872,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "8752ccee2157",
   "role_title": "AI Value Architect",
   "employer": "Cognizant",
@@ -1704,7 +1896,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "e4d73ab12871",
   "role_title": "Forward Deployed AI Engineer",
   "employer": "Cognizant",
@@ -1728,7 +1920,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "66a64d2e39cf",
   "role_title": "AI Consultant",
   "employer": "Creatio",
@@ -1752,7 +1944,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "25f51a0b5884",
   "role_title": "AI/ML Engineer",
   "employer": "Dalil Information Technology | UAE",
@@ -1776,7 +1968,7 @@
   "salary_currency": "AED"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "8b8e82f6ad6c",
   "role_title": "Data Scientist - 6 months contract",
   "employer": "Dashco Middle East",
@@ -1800,7 +1992,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "eac1df8d6e39",
   "role_title": "AI Solutions Engineer",
   "employer": "Dautom",
@@ -1824,7 +2016,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "058a476cf3b4",
   "role_title": "Applied AI Engineer - Agentic Systems",
   "employer": "Deeplight AI",
@@ -1848,7 +2040,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "8565b656f9e5",
   "role_title": "Data Scientist - 3month contract - Abu Dhabi",
   "employer": "Discovered MENA",
@@ -1872,7 +2064,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "b1f9d3389193",
   "role_title": "QA AI Automation Engineer",
   "employer": "Discovered MENA",
@@ -1896,7 +2088,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "bc0dc022d903",
   "role_title": "Expert Opportunity - Data Scientist ($80/hr, up to $1,600/week)",
   "employer": "Ethos",
@@ -1920,7 +2112,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "7af710e6c67c",
   "role_title": "Expert Opportunity - Machine Learning Engineer ($80/hr, up to $1,600/week)",
   "employer": "Ethos",
@@ -1944,7 +2136,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "48479ba0b94b",
   "role_title": "AI Data Scientist",
   "employer": "fa-euqk-saasfaprod1",
@@ -1968,7 +2160,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "160beb2af1f8",
   "role_title": "Artificial Intelligence Engineer",
   "employer": "Gloria Jeans",
@@ -1992,7 +2184,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "86d9f0669288",
   "role_title": "Artificial Intelligence Engineer",
   "employer": "Group AMANA",
@@ -2016,7 +2208,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "db010bcff663",
   "role_title": "AI Cybersecurity Threat Intelligence Specialist (m/f/d)",
   "employer": "Halian | Managed Services, Recruitment Agency & Contract Staffing",
@@ -2032,15 +2224,15 @@
   "first_seen": "2026-10-21",
   "last_seen": "2026-10-21",
   "status": "active",
-  "skills": "",
-  "min_years_experience": "",
-  "degree_mentioned": "",
+  "skills": "LLMs; Machine learning; Generative AI; Recommender systems; Agents; Responsible AI",
+  "min_years_experience": "7",
+  "degree_mentioned": "Bachelors",
   "salary_min": "",
   "salary_max": "",
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "79c7143fef26",
   "role_title": "AI Innovation Project Manager",
   "employer": "HTC Global Services",
@@ -2064,7 +2256,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "12acde6aab9f",
   "role_title": "AI Solution Architect",
   "employer": "HTC Global Services",
@@ -2080,15 +2272,15 @@
   "first_seen": "2026-10-21",
   "last_seen": "2026-10-21",
   "status": "active",
-  "skills": "",
-  "min_years_experience": "",
+  "skills": "Python; RAG; LLMs; Prompt engineering; Machine learning; Generative AI; Vector databases; AWS; Azure; Recommender systems; A/B testing; Agents; Responsible AI",
+  "min_years_experience": "10",
   "degree_mentioned": "",
   "salary_min": "",
   "salary_max": "",
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "5f14d1065d57",
   "role_title": "AI Project Manager",
   "employer": "Hunter Bond",
@@ -2112,7 +2304,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "2434011dff60",
   "role_title": "Lead Applied Scientist",
   "employer": "Inception42",
@@ -2136,7 +2328,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "bf882a0775fe",
   "role_title": "Senior ML Engineering Manager (AV data)",
   "employer": "inDrive",
@@ -2160,7 +2352,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "1ef48c8fa982",
   "role_title": "AI Chat & Voice Agent Specialist",
   "employer": "Ivy Digital LLC",
@@ -2184,7 +2376,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "172c26c11f29",
   "role_title": "AI Evaluation Engineer",
   "employer": "Jobgether",
@@ -2208,7 +2400,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "5d6f417f811a",
   "role_title": "AI/ML Engineer",
   "employer": "Jobgether",
@@ -2232,7 +2424,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "b2152488ecf9",
   "role_title": "Data Scientist (Time Series Forecasting)",
   "employer": "Jobgether",
@@ -2256,7 +2448,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "865c0cec2735",
   "role_title": "Lead AI & Automation Engineer",
   "employer": "K4 Group",
@@ -2280,7 +2472,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "b7685a3f6ff5",
   "role_title": "Forward Deployed Engineer / Gen AI Solutions Engineer",
   "employer": "La Fosse",
@@ -2304,7 +2496,7 @@
   "salary_currency": "AED"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "9cf4de682b94",
   "role_title": "Data Scientist/Analyst - Data Modelling & BI | Emirati Talent",
   "employer": "Majid Al Futtaim",
@@ -2328,7 +2520,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "ba4863deb275",
   "role_title": "Deep Learning Quantitative Researcher",
   "employer": "Millennium",
@@ -2352,7 +2544,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "b045ba580edd",
   "role_title": "Co-Founder — Applied AI for Freight Forwarding",
   "employer": "Model Operator",
@@ -2376,7 +2568,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "e1d7e21ab8ae",
   "role_title": "Data Science & AI Intern",
   "employer": "MSD Saudi Arabia",
@@ -2400,7 +2592,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "4df72ece5eaa",
   "role_title": "AI Data Scientist",
   "employer": "Network International",
@@ -2424,7 +2616,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "2c6f29261ad4",
   "role_title": "Research Engineer in the Center for Interdisciplinary Data Science and Artificial Intelligence (CIDSAI) - Dr. Pierre Youssef",
   "employer": "New York University Abu Dhabi",
@@ -2448,7 +2640,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "aa7325318d02",
   "role_title": "Graduate AI & Software Engineering Program (UAE Nationals)",
   "employer": "noon",
@@ -2472,7 +2664,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "da915c83ea61",
   "role_title": "AI Engineer, Real Estate Intelligence",
   "employer": "Property Dynamix",
@@ -2496,7 +2688,7 @@
   "salary_currency": "AED"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "9b0d7630a876",
   "role_title": "AI Strategist",
   "employer": "Property Finder",
@@ -2512,15 +2704,15 @@
   "first_seen": "2026-10-20",
   "last_seen": "2026-10-21",
   "status": "active",
-  "skills": "",
-  "min_years_experience": "",
+  "skills": "OpenAI API; LLMs; Generative AI; SQL; Agents",
+  "min_years_experience": "9",
   "degree_mentioned": "",
   "salary_min": "",
   "salary_max": "",
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "9ed7ff37a682",
   "role_title": "Deputy CTO (AI Agents, TypeScript, Kafka, Kubernetes)",
   "employer": "Red Rock Technology",
@@ -2544,7 +2736,7 @@
   "salary_currency": "AED"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "a22031e44a16",
   "role_title": "AI and Advanced Data Analysis Specialist",
   "employer": "Reneco International Wildlife Consultants LTD",
@@ -2568,7 +2760,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "a0706f8bc91a",
   "role_title": "Biostatistician & Data Science Specialist",
   "employer": "Reneco International Wildlife Consultants LTD",
@@ -2592,7 +2784,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "80be5ff5463e",
   "role_title": "Graduate Programme 2027: Applied AI Engineer",
   "employer": "Revolut",
@@ -2616,7 +2808,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "020f6c770e48",
   "role_title": "AI Engineer (On-Premise RHEL Deployment, Python, RAG, Conversational AI)",
   "employer": "Safe City Group",
@@ -2640,7 +2832,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "e8d71a2e9905",
   "role_title": "Teamlead Research and Design (Agentic AI)",
   "employer": "Sana Commerce",
@@ -2664,7 +2856,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "2f1e6ffd6baf",
   "role_title": "Forward Deployed Application/ML Engineering Expert",
   "employer": "SAP",
@@ -2688,7 +2880,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "d835254a0931",
   "role_title": "Senior Machine Learning Engineer",
   "employer": "SAP",
@@ -2712,7 +2904,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "133d37f01097",
   "role_title": "AI Forward Deployed Engineer (Mid to Lead)",
   "employer": "Socium - Teams Done Differently",
@@ -2736,7 +2928,7 @@
   "salary_currency": "AED"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "c8f7a3966614",
   "role_title": "Lead AI Architect",
   "employer": "Socium - Teams Done Differently",
@@ -2760,7 +2952,7 @@
   "salary_currency": "AED"
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "616e697a2dbf",
   "role_title": "Product Manager (AI Products)",
   "employer": "spiderSilk",
@@ -2784,7 +2976,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "f50dc3a37d2c",
   "role_title": "Senior AI Automation Specialist",
   "employer": "Synechron",
@@ -2808,7 +3000,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "4f8c04a87644",
   "role_title": "AI Engineer",
   "employer": "techcarrot",
@@ -2832,7 +3024,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "be8ad7be8848",
   "role_title": "Infrastructure Engineer (SRE + AIOps)",
   "employer": "TMC Middle East",
@@ -2856,7 +3048,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "e5b77b04145d",
   "role_title": "Senior Managing Consultant - AI Consulting, Strategy, Deployment - Client Advisory",
   "employer": "UAE: Mastercard Middle East Africa FZ-LLC",
@@ -2880,7 +3072,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "8712544190e0",
   "role_title": "Director of Artificial Intelligence",
   "employer": "Wave Talent",
@@ -2904,7 +3096,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "430961e77676",
   "role_title": "Junior Data Scientist",
   "employer": "Why Hiring",
@@ -2928,7 +3120,7 @@
   "salary_currency": ""
  },
  {
-  "snapshot_date": "2026-10-21",
+  "snapshot_date": "2026-10-23",
   "role_id": "a32bf0397bcd",
   "role_title": "Graduate – Artificial Intelligence (Emirati National)",
   "employer": "WSP in the Middle East",
